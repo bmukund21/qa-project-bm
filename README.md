@@ -1,0 +1,1 @@
+this is a test project for testing a github fork as an exercise. this will include ui tests, api tests, data tests. using python, playwright and using llm to write tests
